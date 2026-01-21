@@ -1,2 +1,2 @@
 # machinelearning
-ML Projects
+A directory containing a few of my ML Projects
